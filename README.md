@@ -4,7 +4,7 @@ Launcher para instalar, atualizar e gerenciar dublagens e conteúdos adicionais 
 
 ## 📥 Download
 
-### ➡️ [**Baixar o instalador mais recente**](https://github.com/Willianfreitas01/Limit_Breaker_Team_public/releases/download/1.4.2/LimitBreaker-Setup-1.4.2-win-x64.exe)⬅️
+### ➡️ [**Baixar o instalador mais recente**](https://github.com/Willianfreitas01/Limit_Breaker_Team_public/releases/download/1.4.5/LimitBreaker-Setup-1.4.5-win-x64.exe)⬅️
 
 > Windows 10/11 · 64-bit
 
